@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Пожалуйста заполните форму</string>
+    <string name="second_fragment_label">Результаты запроса</string>
+
+    <string name="go">Поехали !</string>
+    <string name="description">Введите количество точек</string>
+    <string name="error_text">Что-то пошло не так !</string>
+    <string name="action_snapshot">Сохранить график</string>
+    <string name="image_saved">график сохранен в галерею</string>
+    <string name="image_not_saved">Не удалось сохранить график</string>
+</resources>

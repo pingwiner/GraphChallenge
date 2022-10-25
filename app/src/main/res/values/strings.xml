@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Please fill this form</string>
+    <string name="second_fragment_label">Request results</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="go">Let\'s go !</string>
+    <string name="description">Enter number of data points</string>
+    <string name="error_text">Something went wrong !</string>
+    <string name="action_snapshot">Take snapshot</string>
+    <string name="image_saved">Graph snapshot saved to gallery</string>
+    <string name="image_not_saved">Graph snapshot not saved</string>
+</resources>
